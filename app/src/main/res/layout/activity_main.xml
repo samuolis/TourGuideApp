@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguideapp.MainActivity">
+
+    <ScrollView
+        style="@style/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:src="@drawable/dvidesimtketuri" />
+
+
+            <FrameLayout
+                style="@style/MainList"
+                android:background="@color/Places">
+
+                <TextView
+                    android:id="@+id/places"
+                    style="@style/MainText"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:text="@string/Places" />
+            </FrameLayout>
+
+            <!-- Family category -->
+            <FrameLayout
+                style="@style/MainList"
+                android:background="@color/Restaurants">
+
+                <TextView
+                    android:id="@+id/Restaurants"
+                    style="@style/MainText"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:text="@string/Restaurants" />
+            </FrameLayout>
+
+            <!-- Colors category -->
+            <FrameLayout
+                style="@style/MainList"
+                android:background="@color/Activities">
+
+                <TextView
+                    android:id="@+id/Activities"
+                    style="@style/MainText"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:text="@string/Activities" />
+            </FrameLayout>
+
+            <!-- Phrases category -->
+            <FrameLayout
+                style="@style/MainList"
+                android:background="@color/Translation">
+
+                <TextView
+                    android:id="@+id/Hotels"
+                    style="@style/MainText"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:text="@string/basicWords" />
+            </FrameLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

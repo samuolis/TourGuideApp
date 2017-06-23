@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Klaipeda</string>
+    <string name="Places">Places to Visit</string>
+    <string name="Activities">Museum</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="basicWords">Hotels</string>
+    <string name="p1m">Klaipeda Old Town</string>
+    <string name="p1d">Klaipeda is the oldest and third biggest city in Lithuania, located on the  Curonian Lagoon and The Baltic Sea. City is unique for its Old Town which is an outstanding example of German architecture. The city always regains its strength during annual city festivals like the Sea Festival and the Jazz festival. Klaipeda is very lively at night when various night clubs open. City is a very charismatic including a spectacular architecture, majesty of its harbor and original leisure time activities. Bohemian people, white mews and smell of sea will be absorbed for a long time once you come to Klaipeda.</string>
+    <string name="p2m">Craft Yards</string>
+    <string name="p2d">Here is a brief overview of the crafts yard set up in 18th-century fachwerk warehouses, which also include warehouses with gambrel roofs that became popular in the second half of the 18th century. These unique buildings were usually two storeys high and were sometimes built within yards. They allowed for maximum storage and the upper parts of the buildings usually stuck out to allow horse carriages to pass through. You can find such a warehouse in this yard as well.
+Nowadays, the “crafts yard” is the cradle of the cultural life of Klaipėda. There are various crafts workshops here that invite guests to touch, feel and learn about the spirit of past times by making local traditional goods themselves with the assistance of crafts artists.
+The artist yard is popular among locals and is highly attractive to visitors because of the many  events that take place here. Among the activities of the workshop, elementary demonstrations, during which the number of visitors is not limited, will be accompanied by seminars of registered groups and artisans as well as master classes, when true masters of their trade will divulge their secrets.</string>
+    <string name="p3m">Theater square</string>
+    <string name="p3d">Klaipėda Theater Square is the heart of the city. There is a sculpture of Ann from Tharau in the middle of the fountain at the centre of the square. The monument is dedicated to Simon Dach, a German poet who was born in Klaipėda and studied at Konigsberg University. Ann was a girl whom the poet fell in love with at first sight. However, she was engaged to another man. Simon Dach dedicated a poem to her and called it "Ann from Tharau", which is still very popular in Germany, Austria and Switzerland. The fountain with the sculpture of the girl and the bas-relief of the poet were created in 1912 by a sculptor from Berlin – Alfred Kune. During World War II, the sculpture disappeared. It was reconstructed in 1990 on the initiative of the city inhabitants and emigrants.
+The building behind the sculpture is the Drama Theatre. Since the 18th century, the theatre has played an important role in the cultural life of Klaipėda. This building was reconstructed in the 19th century in the neo-classic style. The Klaipėda coat of arms is on the facade of the building. </string>
+    <string name="p4m">Jonas hill and the Cities Bastion Fortifications</string>
+    <string name="p4d">Under the guidance of the engineer Charles Rose, the city was to be encircled in the manner of Holland-type fortifications, eastward from the former church of the St. John. Moulds and bastions measuring about 3.5 metres high were formed, and outer ditches (moats) were dug.  Because of their size, the city fortifications are categorized as being amongst the great royal castles. The works were finished only in the late 17th century-early 18th century. Later, the moulds were reconstructed in the mid-18th century. The fortification system of Klaipėda at the time was complex. Because the city was surrounded by bastion fortifications in the East and South and secured by the Naujoji Danė River in the North, the only access was via three gates named after their main objects: Tiltas (Bridge), Kūlių (of Stones) and Malūnų (of the Mills). The latter two were built upon earthen ramparts.
+During the wars in the 18th century, the maintenance of the fortress was neglected, the gateways were starting to be disassembled for their bricks, the ramparts were torn-up, the ditches were filled with soil; in the 20th century, only small fragments of the former complex fortification system remained.
+Today, the former fortification system can be best observed at the end of Turgaus Street, from the bastions referred to in the historical records as the Geldern and Purmark. In front of the bastions,  the water-area of the defensive ditch/moat, and the only surviving ravelin can be seen. The remains of these defensive fortifications were restored in 1994-1997 (author of project V. Šliogeris).</string>
+    <string name="p5m">Dinosaur Park "Dinopark Radailiai"</string>
+    <string name="p5d">Only 7 km away from Klaipėda and you are in a unique location - „Dinozaurų parke DINO.LT“. The park is located in a picturesque territory, surrounded by nature, there lives more than 40 natural size dinosaurs that roar, hiss and spit water. See the dinosaurs that went extinct 65 million years ago, right here, in Radailiai, Klaipėda region.</string>
+    <string name="p6m">Lithuanian maritime museum, aquarium and dolphinarium</string>
+    <string name="p6d">The Lithuanian Maritime Museum is located in the northernmost point of the Curonian Spit - Kopgaliai, where the Curonian Spit Peninsula, which is 98 kilometers long, ends and the Klaipėda Seaport Gate opens. In the second half of the 19th century, the defense fortress of the seaside, the Neris Fort, was built in Kopgalis, which was almost destroyed during the Second World War. In 1979, the Neris Fort was rebuilt and adapted to the needs of the museum. Today, after this historic fort you can walk and you too.</string>
+
+    <string name="r1m">Meat lovers</string>
+    <string name="r1d">Šiaurinis ragas, Danės g. 1, Klaipėda  +370 652 21998</string>
+    <string name="r2m">Storas katinas</string>
+    <string name="r2d">Žvejų St. 21, Klaipėda  +370 46 416173</string>
+    <string name="r3m">Forto dvaras</string>
+    <string name="r3d">Sukilelių st. 8, Klaipėda  +370 640 37654</string>
+    <string name="r4m">Monai</string>
+    <string name="r4d">Liepų St. 4, Klaipėda  +370 626 63362</string>
+    <string name="r5m">XII-floor</string>
+    <string name="r5d">N. Sodo st. 1, Kllaipėda  +370 46 404375</string>
+    <string name="r6m">"Klaipėdos senamiestis"</string>
+    <string name="r6d">Daržų st. 6, Klaipėda  +37064414461</string>
+
+    <string name="h1m">"Amberton Klaipėda"</string>
+    <string name="h1d">Conference halls: 5 halls Capacity: 550 people. 246 rooms, 492 places</string>
+    <string name="h2m">"Ararat" apart hotel</string>
+    <string name="h2d">Conference halls: 1 halls Capacity: 120 people. 20 rooms, 60 places</string>
+    <string name="h3m">"Euterpė"</string>
+    <string name="h3d">Conference halls: 1 halls Capacity: 50 people. 23 rooms, 41 places</string>
+    <string name="h4m">"Dunetton"</string>
+    <string name="h4d">Conference halls: 1 halls Capacity: 30 people. 20 rooms, 39 places</string>
+    <string name="h5m">"Michaelson boutique hotel"</string>
+    <string name="h5d">Conference halls: 1 hall Capacity: 32 people. 16 rooms, 32 places</string>
+    <string name="h6m">"National"</string>
+    <string name="h6d">Conference halls: 2 halls Capacity: 70 people. 50 rooms, 110 places</string>
+
+    <string name="m1m">Blacksmith Museum</string>
+    <string name="m1d">Established in 1993 and worth a quick look around, the city’s singularly peculiar Blacksmith Museum provides both a glimpse inside the world of the smithy as well as a tantalising look into the rich ethnic and cultural past of the region.
+Displays include exhibits showing the many skills involved in the craft, with a large knot of miscellaneous crosses upstairs. In the back yard are original crosses displaying a multitude of local languages, several of them now extinct. The small building at the back of the complex is a working blacksmith’s workshop, where demonstrations of the craft are given.</string>
+    <string name="m2m">Castle Museum</string>
+    <string name="m2d">First mentioned in 1252, the city’s castle stood on this site in its many guises for centuries until it was finally dismantled towards the end of the 19th century.
+The museum, located inside two separate underground sections of what remains of the structure illustrates both the history of the building and the city in general with the help of a galaxy of display cases, models in medieval costumes and the like.
+Of particular interest are a series of gorgeous paintings of the castle and the city in its heyday, photos from WWII and the Soviet reconstruction of the city.
+Outside, a section of the castle foundations has been revealed, complete with display boards explaining how everything originally looked and what their purpose was.</string>
+    <string name="m3m">Lithuanian Sea Museum</string>
+    <string name="m3d">The Lithuanian Sea Museum, the only thing of its kind in the Baltic States.
+The aquarium, housed in a reconstructed fort, features a big central pool surrounded by tanks of penguins and a number of unusual fish and other aquatic displays.
+Outside during the summer you can see shows featuring a big sea lion that plays with balls, hoops and members of the audience.
+Highly recommended for families with children, the museum is located at the tip of the Curonian Spit. To get there take one of the special ferries that runs between the Old Castle Port ferry and the museum, or take the normal ferry and follow the long path north along the edge of the water.</string>
+    <string name="m4m">Clock Museum</string>
+    <string name="m4d">Klaipeda Clocks Museum was opened 27 July 1984. The history of the building comes back to the 19th century. Klaipeda traders started to build their residences in the outskirts at that time. The idea of establishing Clock and Watch Museum was born not accidentally. The first exhibition of ancient clocks and watches was opened Klaipeda Art Gallery in 1977. It was formed with the help of Vytautas Jakelaitis, Dionyzas Varkalis and other Klaipeda collectors. The exhibition interested the citizens of Klaipeda and the guests very much. In 1979 the Clock and Watch Museum was established on the on initiative of Pranas Gudynas and Romualdas Budrys, the leaders of Lithuanian Art Museum. It became the branch of Lithuanian Art Museum. The exhibition was supplemented and completed by clocks and watches from Art Museum. The clocks and watches of the end of the 19th, the beginning of the 20th century made the basic part of the exhibition.The Clock and Watch Museum consists of three parts: development of clock and watch constructions; development of clock and watch-making styles.</string>
+    <string name="m5m">Lithuania Minor History Museum</string>
+    <string name="m5d"> The first attempts to found a museum in Klaipėda are dated from the beginning of the 20th century. During the general meeting of members of the "Sandora" Society under the leadership of priest Dr. V. Gaigalaitis, it was decided to establish the Library-Museum. After the Society acquired its own house, in 1912 the Library and attached Museum of History-Ethnography was opened. The periodical "Pagalba" ("Help") which was published by the Society thanked donors for the first displays and asked the Lithuanian people: "to bring more of these ancient remnants. Those at home only get scattered all over the place and get lost, but in "Sandora", they will be attractively and carefully kept for the future." There is no further information about the exhibitions at the Museum or the number of displays, nor about its activities after the World War I.</string>
+    <string name="m6m"></string>
+    <string name="m6d"></string>
+
+
+</resources>
